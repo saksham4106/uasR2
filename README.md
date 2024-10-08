@@ -13,3 +13,5 @@ a new set of latitude and longitude coordinates.
 
 ## Working
 working of the formula i arrived tocalculate time by solving DE is given in the working folder. My original solution of solving DE didn't work because i couldn't compute the inverse of function. 
+
+I don't have any logs of daily work because i joined the group a day before the deadline and had to complete this project in a few hours 
