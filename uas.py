@@ -14,14 +14,14 @@ d2 = f2.read().split(" ")
 # vx = 5
 # vy = 5
 
-lat1 = int(d1[0])
-lon1 = int(d1[1])
+lat1 = float(d1[0])
+lon1 = float(d1[1])
 
-lat2 = int(d2[0])
-lon2 = int(d2[1])
+lat2 = float(d2[0])
+lon2 = float(d2[1])
 
-vx = int(d1[2])
-vy = int(d1[3])
+vx = float(d1[2])
+vy = float(d1[3])
 
 
 
