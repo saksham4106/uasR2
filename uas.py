@@ -26,7 +26,7 @@ vy = int(d1[3])
 
 
 
-m = 1.5   # mass
+m = 1.5   # mass, didn't find any use to calculate the drag
 h = 20
 Cd = 0.47   # coefficient of drag
 g = 9.8 # gravity at surface of earth
